@@ -1,0 +1,3 @@
+后端:使用的是springboot2
+前端是vIte搭建的vue3；
+要下载的指令有install,router,elment-plus,lang,windcss...
